@@ -1,0 +1,14 @@
+{
+  "model": "LightGBM",
+  "version": "1.0",
+  "features": [
+    "BlockHeight",
+    "From_freq",
+    "To_freq",
+    "Value_log",
+    "hour",
+    "dayofweek"
+  ],
+  "trained_on": "Ethereum Transactions",
+  "metric": "ROC-AUC = 0.972"
+}

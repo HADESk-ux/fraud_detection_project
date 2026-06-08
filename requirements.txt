@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+lightgbm
+xgboost
+imbalanced-learn
+fastapi
+streamlit
+jupyterlab
